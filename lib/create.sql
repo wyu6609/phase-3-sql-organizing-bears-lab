@@ -6,5 +6,5 @@ CREATE TABLE bears (
     color TEXT,
     temperatment TEXT,
     alive BOOLEAN
-    
+
 )
